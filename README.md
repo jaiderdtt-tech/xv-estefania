@@ -8,21 +8,21 @@ Invitación digital: portada con foto, cuenta regresiva, mapa, pase personalizad
 2. Entra al repositorio, toca **Add file > Upload files** y arrastra `index.html`, `README.md` y la carpeta `assets` completa. Toca **Commit changes**.
 3. Ve a **Settings > Pages**. En *Source* elige **Deploy from a branch**, rama **main**, carpeta **/ (root)** y guarda.
 4. En uno o dos minutos la invitación queda en:
-   `https://TU-USUARIO.github.io/xv-estefania/`
+   `https://jaiderdtt-tech.github.io/xv-estefania/`
 
 ## Vista previa al compartir por WhatsApp
 
-En `index.html`, busca la línea `og:image` y cambia `TU-USUARIO` por tu usuario de GitHub. Así, al pegar el enlace en WhatsApp aparece la foto con el nombre y la fecha (`assets/og.jpg`). WhatsApp guarda la vista previa en caché, así que pruébala después de hacer este cambio.
+En `index.html`, busca la línea `og:image` y cambia `jaiderdtt-tech` por tu usuario de GitHub. Así, al pegar el enlace en WhatsApp aparece la foto con el nombre y la fecha (`assets/og.jpg`). WhatsApp guarda la vista previa en caché, así que pruébala después de hacer este cambio.
 
 ## Versiones por número de personas
 
 | Archivo | Enlace | Pase para |
 | --- | --- | --- |
-| `index.html` | `https://TU-USUARIO.github.io/xv-estefania/` | 1 persona |
-| `daysqd.html` | `https://TU-USUARIO.github.io/xv-estefania/daysqd.html` | 2 personas |
-| `puge5h.html` | `https://TU-USUARIO.github.io/xv-estefania/puge5h.html` | 3 personas |
-| `yx6w7t.html` | `https://TU-USUARIO.github.io/xv-estefania/yx6w7t.html` | 4 personas |
-| `wufhw8.html` | `https://TU-USUARIO.github.io/xv-estefania/wufhw8.html` | 5 personas |
+| `index.html` | `https://jaiderdtt-tech.github.io/xv-estefania/` | 1 persona |
+| `daysqd.html` | `https://jaiderdtt-tech.github.io/xv-estefania/daysqd.html` | 2 personas |
+| `puge5h.html` | `https://jaiderdtt-tech.github.io/xv-estefania/puge5h.html` | 3 personas |
+| `yx6w7t.html` | `https://jaiderdtt-tech.github.io/xv-estefania/yx6w7t.html` | 4 personas |
+| `wufhw8.html` | `https://jaiderdtt-tech.github.io/xv-estefania/wufhw8.html` | 5 personas |
 
 Cada invitado solo ve el número de su propio pase. Los nombres de los archivos son códigos al azar para que nadie pueda adivinar el enlace de otra versión, y el número de personas no se puede cambiar desde el enlace. Si alguien borra el código del enlace, llega a la versión de 1 persona.
 
@@ -33,7 +33,7 @@ Las confirmaciones llegan al WhatsApp 315 697 0185 e indican cuántas personas c
 Puedes agregar al final de cualquier enlace el nombre del invitado:
 
 ```
-https://TU-USUARIO.github.io/xv-estefania/yx6w7t.html?para=Familia%20Gómez
+https://jaiderdtt-tech.github.io/xv-estefania/yx6w7t.html?para=Familia%20Gómez
 ```
 
 El nombre aparece en "Reservado para" y llena el campo de nombre al confirmar. Los espacios se escriben como `%20`.
