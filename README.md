@@ -12,7 +12,7 @@ Invitación digital: portada con foto, cuenta regresiva, mapa, pase personalizad
 
 ## Vista previa al compartir por WhatsApp
 
-En `index.html`, busca la línea `og:image` y cambia `jaiderdtt-tech` por tu usuario de GitHub. Así, al pegar el enlace en WhatsApp aparece la foto con el nombre y la fecha (`assets/og.jpg`). WhatsApp guarda la vista previa en caché, así que pruébala después de hacer este cambio.
+En `index.html`, busca la línea `og:image` y cambia `jaiderdtt-tech` por tu usuario de GitHub. Así, al pegar el enlace en WhatsApp aparece la foto con el nombre y la fecha (`assets/og-v2.jpg`). WhatsApp guarda la vista previa en caché, así que pruébala después de hacer este cambio.
 
 ## Versiones por número de personas
 
